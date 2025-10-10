@@ -1,3 +1,3 @@
 # Epidemiology
 
-This repository contains code related to disease modelling and epidemiological analysis.
+This repository contains code related to disease modeling and epidemiological analysis.
